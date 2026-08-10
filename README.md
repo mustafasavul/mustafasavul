@@ -18,90 +18,11 @@
 
 7+ years building scalable, high-performance web applications with **TypeScript, React and Next.js**. I've shipped e-commerce and enterprise platforms serving **millions of monthly visitors across 60+ countries**.
 
-- 🏗️ Micro Frontend architecture — Module Federation, Lerna, Nx-style monorepos
+- 🏗️ Micro Frontend architecture — Module Federation, Lerna, monorepos
 - ⚡ Rendering strategy & performance — SSR / CSR / SSG, Core Web Vitals, bundle budgets
 - 🧪 Testing & CI/CD — Jest, React Testing Library, Playwright, GitLab CI, SonarQube
 - 🤖 AI-assisted development — Claude Code, Cursor, MCP servers, agent workflows
-- 🖥️ Building cross-platform desktop apps with **Tauri + Rust** in my free time
-
----
-
-## 🚀 Vibe Coding Projects
-
-Evening projects, then open-sourced. Free, MIT-licensed, cross-platform, no telemetry.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎡 [ClipWheel](https://github.com/mustafasavul/ClipWheel)
-**Privacy-first radial clipboard manager**
-
-A radial menu pops up under your cursor with your clipboard history — pick with a flick instead of scrolling a list. Everything stays local: no account, no sync, no telemetry.
-
-<p>
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
-
-`macOS` · `Windows` · `Linux`
-[⬇️ Download](https://github.com/mustafasavul/ClipWheel/releases) · [📦 Source](https://github.com/mustafasavul/ClipWheel)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 [portiye](https://github.com/mustafasavul/portiye)
-**Find what's using a port — and stop it**
-
-`EADDRINUSE :::3000` with four terminals open. portiye lives in the menu bar, shows every listening port, which process owns it and which project started it — then kills it in one click. Also manages Android emulators, iOS simulators, Docker containers and build daemons.
-
-<p>
-<img src="https://img.shields.io/badge/Tauri%202-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/28%20languages-informational?style=flat-square" />
-</p>
-
-`macOS` · `Windows` · `Linux`
-[⬇️ Download](https://github.com/mustafasavul/portiye/releases) · [📦 Source](https://github.com/mustafasavul/portiye)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [ai-summarize-widget](https://github.com/mustafasavul/ai-summarize-widget)
-**AI summarization widget for any website**
-
-Smart article extraction, JSON-LD (AIO) SEO metadata, and native deep-linking into ChatGPT, Claude and Gemini apps. 10+ languages including RTL.
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Zero%20dependencies-success?style=flat-square" />
-</p>
-
-[📦 Source](https://github.com/mustafasavul/ai-summarize-widget)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [mui-color-palette-generator](https://github.com/mustafasavul/react-mui-color-palette-generator)
-**Full MUI theme palettes from one base color**
-
-Pick a color, get a production-ready MUI palette with every shade and contrast-safe text tokens.
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-</p>
-
-[🌐 Live demo](https://react-mui-color-palette-generator.vercel.app) · [📦 Source](https://github.com/mustafasavul/react-mui-color-palette-generator)
-
-</td>
-</tr>
-</table>
+- 🖥️ Cross-platform desktop apps with **Tauri + Rust**, mobile apps on the **App Store**
 
 ---
 
@@ -141,8 +62,8 @@ Pick a color, get a production-ready MUI palette with every shade and contrast-s
 <img src="https://img.shields.io/badge/Module%20Federation-4B32C3?style=for-the-badge&logo=webpack&logoColor=white" />
 </p>
 
-**Architecture:** Micro Frontend (Module Federation, Lerna) · SSR / CSR / SSG · Design systems · Reusable component libraries
-**Performance & SEO:** Core Web Vitals (LCP, CLS, INP) · Code splitting · Bundle optimization · Technical SEO
+**Architecture:** Micro Frontend (Module Federation, Lerna) · SSR / CSR / SSG · Design systems · Reusable component libraries<br/>
+**Performance & SEO:** Core Web Vitals (LCP, CLS, INP) · Code splitting · Bundle optimization · Technical SEO<br/>
 **Integration:** REST · GraphQL · .NET (MVC, Razor) · Amazon IVS · WebSockets
 
 ---
@@ -173,14 +94,14 @@ How I actually work day to day — AI as a pair, not autocomplete.
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Senior Frontend Developer | **LC Waikiki** <sub>(via NTT DATA Business Solutions)</sub> | 01/2025 – 02/2026 |
-| Senior Frontend Developer | **Dgpays** | 08/2023 – 01/2025 |
-| Frontend Developer | **Hepsiburada** <sub>(NASDAQ: HEPS)</sub> | 08/2022 – 07/2023 |
-| Frontend Developer | **Crowdsol** | 11/2021 – 07/2022 |
-| Frontend Developer | **Glomil Teknoloji** | 06/2021 – 10/2021 |
-| Frontend Developer | **OGOO** | 06/2018 – 05/2021 |
+| Role | Company |
+|---|---|
+| Senior Frontend Developer | **LC Waikiki** <sub>(via NTT DATA Business Solutions)</sub> |
+| Senior Frontend Developer | **Dgpays** |
+| Frontend Developer | **Hepsiburada** <sub>(NASDAQ: HEPS)</sub> |
+| Frontend Developer | **Crowdsol** |
+| Frontend Developer | **Glomil Teknoloji** |
+| Frontend Developer | **OGOO** |
 
 **Selected impact**
 
@@ -192,11 +113,95 @@ How I actually work day to day — AI as a pair, not autocomplete.
 
 ---
 
+## 🚀 Vibe Coding Projects
+
+Evening projects that shipped. Open-source desktop tools and apps on the App Store.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎡 [ClipWheel](https://github.com/mustafasavul/ClipWheel)
+**Privacy-first radial clipboard manager**
+
+A radial menu pops up under your cursor with your clipboard history — pick with a flick instead of scrolling a list. Everything stays local: no account, no sync, no telemetry.
+
+<p>
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
+</p>
+
+`macOS` · `Windows` · `Linux`<br/>
+[⬇️ Download](https://github.com/mustafasavul/ClipWheel/releases) · [📦 Source](https://github.com/mustafasavul/ClipWheel)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 [portiye](https://github.com/mustafasavul/portiye)
+**Find what's using a port — and stop it**
+
+`EADDRINUSE :::3000` with four terminals open. portiye lives in the menu bar, shows every listening port, which process owns it and which project started it — then kills it in one click. Also manages Android emulators, iOS simulators, Docker containers and build daemons.
+
+<p>
+<img src="https://img.shields.io/badge/Tauri%202-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/MIT-green?style=flat-square" />
+</p>
+
+`macOS` · `Windows` · `Linux` · `28 languages`<br/>
+[⬇️ Download](https://github.com/mustafasavul/portiye/releases) · [📦 Source](https://github.com/mustafasavul/portiye)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/47/3c/5e473c42-3a7a-aedc-62a4-17cbb3e90a86/Placeholder.mill/400x400bb-75.webp" width="28" align="top" /> [Animal Sounds & Calls](https://apps.apple.com/us/app/animal-sounds-calls/id6772835297)
+**Playful animal sounds & pretend calls for kids**
+
+Kids tap animals to hear real sounds, get surprise "calls" from them, take sound quizzes, save favorites and learn simple facts about farm, jungle, forest, ocean and zoo animals.
+
+<p>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/51%20languages-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Education-5856D6?style=flat-square" />
+</p>
+
+[🍏 App Store](https://apps.apple.com/us/app/animal-sounds-calls/id6772835297)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/31/10/06311016-e47a-ae20-3b13-6f8f3bf7627b/Placeholder.mill/400x400bb-75.webp" width="28" align="top" /> [Mythobase](https://apps.apple.com/us/app/mythobase-discover-mythology/id6743084078)
+**Discover mythology — 23 mythologies in one app**
+
+Thousands of gods, heroes, creatures and legendary weapons, from Zeus's thunder to Odin's ravens and Turkic sky-gods — with original artwork for every entry.
+
+<p>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/23%20mythologies-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Education-5856D6?style=flat-square" />
+</p>
+
+[🍏 App Store](https://apps.apple.com/us/app/mythobase-discover-mythology/id6743084078)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafasavul&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasavul&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustafasavul&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mustafasavul&layout=compact&hide_border=true&theme=dark&langs_count=8&exclude_repo=responsively-app" alt="Top languages" />
 </div>
 
 ---
