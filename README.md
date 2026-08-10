@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/mustafasavul/mustafasavul/main/github-pro.jpg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/mustafasavul/mustafasavul/main/banner.png" alt="Mustafa Savul — Senior Frontend Developer" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Mustafa Savul 👋</h1>
