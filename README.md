@@ -195,7 +195,7 @@ Thousands of gods, heroes, creatures and legendary weapons, from Zeus's thunder 
 <tr>
 <td width="50%" valign="top">
 
-### 🏔️ [Mountainverse](https://mountainverse.mustafasavul.com)
+### 🏔️ [Mountainverse](https://www.mustafasavul.com/en/mountainverse-support/)
 **The world's mountains in 3D — built from real satellite data**
 
 120 famous mountains, from Everest to Olympus Mons on Mars, rebuilt as 3D models from satellite imagery and elevation data. Spin them, follow climbing routes, check live summit weather, compare heights and place them on your table in AR.
@@ -210,7 +210,7 @@ Thousands of gods, heroes, creatures and legendary weapons, from Zeus's thunder 
 </p>
 
 `3D` · `AR` · `Copernicus & Sentinel-2 data`<br/>
-[🌐 Website](https://mountainverse.mustafasavul.com) · 🍏 App Store — coming soon
+[💬 Support](https://www.mustafasavul.com/en/mountainverse-support/) · 🍏 App Store — coming soon
 
 </td>
 <td width="50%" valign="top">
